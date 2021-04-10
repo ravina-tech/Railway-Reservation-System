@@ -11,3 +11,4 @@ Overall , the project "Railway Reservation System" , will have following screens
 7. View Train Bookings
 8. Cancel Ticket
 9. Cancel Train
+* Manage the dierctories as in your system locally.
